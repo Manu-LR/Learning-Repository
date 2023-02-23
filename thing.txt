@@ -1,8 +1,8 @@
-abc
+ABC
 
-a
-b
-c
+alfa
+beta
+gamma
 x
 d
 e
